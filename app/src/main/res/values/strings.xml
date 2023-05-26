@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Submission Github User</string>
+    <string name="title">Judul</string>
+    <string name="description">Description</string>
+    <string name="review">Review</string>
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="this_fragment">Ini adalah menu fragment</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Username</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
